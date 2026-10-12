@@ -1,0 +1,43 @@
+
+
+/*h1{
+  text-align: center;
+}
+
+.table{
+  width:100px;
+  border-collapse:collapse;
+}
+  
+th,td{
+  border:1px solid black;
+  padding: 8px;
+  text-align: center;
+th{
+  background-color: lightsteelblue;
+}
+tbody{
+  background-color:lightcyan;
+}*/
+
+.form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* width:350px ; */
+  text-align:left;
+  font-weight: bolder;
+  
+}
+input{
+  width: 360px;
+}
+.course{
+  width:370px ;
+}
+.btn{
+  width: 250px;
+  height: 50px;
+  margin-top: 10px;
+}
+  
