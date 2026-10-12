@@ -1,12 +1,10 @@
 import Title2 from "./Title2";
 import ProductItem from "./ProductItem";
-
-import product2 from "../p_img2.png";
-import product3 from "../p_img3.png";
-import product4 from "../p_img4.png";
-import product5 from "../p_img5.png";
-import product1 from "../p_img1.png";
-
+import product1 from "../Products/p_img1.png";
+import product2 from "../Products/p_img2.png";
+import product3 from "../Products/p_img3.png";
+import product4 from "../Products/p_img4.png";
+import product5 from "../Products/p_img5.png";
 function BestSeller() {
   const products = [
     {

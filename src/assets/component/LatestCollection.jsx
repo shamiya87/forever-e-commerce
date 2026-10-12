@@ -2,16 +2,16 @@ import React from "react";
 import Title from "./Title";
 import ProductItem from "./ProductItem";
 
+import product2 from "../Products/p_img2.png";
+import product3 from "../Products/p_img3.png";
+import product4 from "../Products/p_img4.png";
+import product5 from "../Products/p_img5.png";
 import product1 from "../Products/p_img1.png";
-import product2 from "../products/p_img2.png";
-import product3 from "../products/p_img3.png";
-import product4 from "../products/p_img4.png";
-import product5 from "../products/p_img5.png";
-import product6 from "../products/p_img6.png";
-import product7 from "../products/p_img7.png";
-import product8 from "../products/p_img8.png";
-import product9 from "../products/p_img9.png";
-import product10 from "../products/p_img10.png";
+import product6 from "../Products/p_img6.png";
+import product7 from "../Products/p_img7.png";
+import product8 from "../Products/p_img8.png";
+import product9 from "../Products/p_img9.png";
+import product10 from "../Products/p_img10.png";
 function LatestCollection() {
   const products = [
     { id: 1, name: "Women Round Neck Cotton Top ", price: 100, image: product1 },
