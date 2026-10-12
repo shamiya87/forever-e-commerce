@@ -1,9 +1,9 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./App.css";
-import Home from "C:/frontend/vite-project/src/assets/pages/home.jsx";
-import About from "C:/frontend/vite-project/src/assets/pages/about.jsx";
-import Contact from "C:/frontend/vite-project/src/assets/pages/contact.jsx";
-import Product from "C:/frontend/vite-project/src/assets/pages/product.jsx";
+import Home from "./assets/pages/Home";
+import About from "./assets/pages/About";
+import Contact from "./assets/pages/Contact";
+import Product from "./assets/pages/Product";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
